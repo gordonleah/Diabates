@@ -1,2 +1,1 @@
-# Diabates 
 The diabetes dataset is a binary classification dataset where the outcome is that the patient has diabetes or does not have diabetes. The six feature are preganicies, glucose, blood pressure, skin thickness, BMI, diabetes pedigree function, and age. The data is preprocessed to replace all of the 0 values in certain features with the mean of that column. K nearest neighbor algortihm is a distance based algorithm so that data has to be scaled. The optimal number of K is calculated and the model is constructed. The KNN model is scored and tested for accuracy.  
